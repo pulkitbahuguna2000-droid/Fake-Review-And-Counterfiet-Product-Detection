@@ -1,0 +1,27 @@
+# Virtual Environment
+myenv/
+venv/
+.venv/
+env/
+
+# Python compiled cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Database
+Database/*.db
+
+# Generated QR code images (but keep folder via .gitkeep)
+qr_codes/*.png
+
+# Large dataset files (the trained model is saved in Models/ folder)
+reviews.csv
+
+# macOS system files
+.DS_Store
+
+# IDE configs
+.vscode/
+.idea/
