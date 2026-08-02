@@ -25,3 +25,11 @@ reviews.csv
 # IDE configs
 .vscode/
 .idea/
+
+# Agent configurations
+.agents/
+
+# Temporary Microsoft Office files
+~$*
+.~lock.*
+
